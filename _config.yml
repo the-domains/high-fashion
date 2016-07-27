@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 1
+  lightness: 0.676535
+  rhythmicContrast: 1
+  saturation: 0.447368
+layout_spectrum: 0.066542
+name: High Fashion
+typography_spectrum: 0.817982
